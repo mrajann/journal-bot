@@ -1,0 +1,4 @@
+cat > ~/claude/journal_bot/requirements.txt << 'EOF'
+anthropic
+flask
+EOF

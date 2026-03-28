@@ -1,0 +1,7 @@
+cat > ~/claude/journal_bot/.gitignore << 'EOF'
+venv/
+journal.json
+.env
+__pycache__/
+*.pyc
+EOF
